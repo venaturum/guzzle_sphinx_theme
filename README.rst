@@ -9,7 +9,7 @@ Installation
 
 Install via pip::
 
-    $ pip install guzzle_sphinx_theme
+    $ python -m pip install guzzle_sphinx_theme
 
 or if you have the code checked out locally::
 
